@@ -1,0 +1,10 @@
+{
+"python.pythonPath": ".venv/bin/python",
+"python.linting.enabled": true,
+"python.linting.pylintEnabled": true,
+"python.linting.flake8Enabled": false,
+"python.formatting.provider": "black",
+"editor.formatOnSave": true,
+"python.analysis.typeCheckingMode": "basic",
+"python.envFile": "${workspaceFolder}/.env"
+}
