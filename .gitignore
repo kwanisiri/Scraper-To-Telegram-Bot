@@ -4,4 +4,6 @@ app/__pycache__/
 .venv/
 .pyc
 .env
-nano .gitignore
+lead-gen-bot.zip
+LeadScraper_Agent_Scaffold.zip
+
